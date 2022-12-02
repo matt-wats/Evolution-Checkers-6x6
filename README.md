@@ -8,8 +8,8 @@ Basically, it creates a bunch of Bots (Neural Networks) that play checkers again
 
 ### Previous Project
 
-My goal for this project was to improve upon a previous project of mine: https://openprocessing.org/sketch/820301, which was made in javascript. The methods used are
-very different, but I really was just interested in creating and learning games.
+My goal for this project was to improve upon a previous project of mine: https://openprocessing.org/sketch/820301, which was made in javascript, and used a custom 
+evaluation functions for a minimax search. The methods used are very different, but I really was just interested in creating and learning games.
 
 
 ### Future
